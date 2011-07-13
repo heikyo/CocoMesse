@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ココマップ</string>
+    <string name="phrase">定型文</string>
+    <string name="message">メッセージを入力してください</string>
+    <string name="getrlocation">現在地取得中</string>
+    <string name="pleaselocation">現在地を取得してください</string>
+    <string name="location">現在地が取得されていません。現在地を取得します</string>
+    <string name="gps">GPSが無効です。有効にしますか？</string>
+    <string name="yes">はい</string>
+    <string name="exit">アプリ終了</string>
+    <string name="getbutton">現在地取得</string>
+    <string name="sharebutton">現在地共有</string>
+    
+</resources>

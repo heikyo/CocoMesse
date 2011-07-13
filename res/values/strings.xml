@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GPS Share</string>
+    <string name="phrase">Fixed phrase</string>
+    <string name="message">Please enter a message</string>
+    <string name="getrlocation">You are here getting</string>
+    <string name="pleaselocation">Please get your location</string>
+    <string name="location">You are here have not been retrieved. Gets the current location</string>
+    <string name="gps">Invalid GPS. Do you want to?</string>
+    <string name="exit">Exit Application</string>
+    <string name="yes">Yes</string>
+    <string name="getbutton">MyLocation</string>
+    <string name="sharebutton">Sharing</string>
+</resources>

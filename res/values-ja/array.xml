@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_value">
+    	<item>ここにいるよ！！</item>
+    	<item>ここ集合！！</item>
+    	<item>ここにいます。</item>
+    	<item>ここでお待ちしています。</item>
+    	<item>I`m here!!!</item>
+    	
+    
+    
+    </string-array>
+</resources>
